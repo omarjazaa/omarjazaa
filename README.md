@@ -1,25 +1,25 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=kali" height="60" alt="kali logo" />
 </div>
 
 <div align="center">
@@ -38,8 +38,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omarjazaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=omarjazaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=omarjazaa&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarjazaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" />
 </div>
 
 <picture>
