@@ -1,9 +1,7 @@
-Hi there 👋
+### Hi there 👋
 [![](https://github.com/omarjazaa/omarjazaa/blob/main/chat.svg)](https://x.com/AlOmar799)
 
- <h3 align="center">A developer interested in Python, Linux, and cybersecurity</h3>`n[![committers.top badge](https://user-badge.committers.top/india_private/omarjazaa.svg)](https://user-badge.committers.top/india_private/omarjazaa)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarjazaa)](https://github.com/ryo-ma/github-profile-trophy)
+ <h3 align="center">A developer interested in Python, Linux, and cybersecurity</h3>
 
 <!-- ![Omar's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=omarjazaa&theme=dark&show_icons=true) -->
 
@@ -205,8 +203,8 @@ Hi there 👋
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="omarjazaa's Github Stats" src="https://omarjazaa-github-readme-stats.vercel.app/api/?username=omarjazaa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="omarjazaa's Top Languages" src="https://omarjazaa-github-readme-stats.vercel.app/api/top-langs/?username=omarjazaa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="omarjazaa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=omarjazaa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="omarjazaa's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarjazaa&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -359,9 +357,9 @@ Hi there 👋
 <a href="https://github.com/omarjazaa?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=omarjazaa&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@omarjazaa's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/omarjazaa?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=omarjazaa&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@omarjazaa's github-readme-stats"/></a>
+<a href="https://github.com/omarjazaa?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=omarjazaa&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@omarjazaa's GitHub stats"/></a>
 
-<a href="https://github.com/omarjazaa?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=omarjazaa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@omarjazaa's github-readme-streak-stats"/></a>
+<a href="https://github.com/omarjazaa?tab=stars"><img src="https://streak-stats.demolab.com?user=omarjazaa&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@omarjazaa's GitHub streak"/></a>
 
 </p>
 
@@ -374,23 +372,6 @@ Hi there 👋
     </a>
 </p>
 <!-- activity graph heroku-app end -->
-
-
-<p align="center">
-<a href="https://wakatime.com/@omarjazaa"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=omarjazaa&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@omarjazaa's wakatime stats"/></a>
- 
-<a href="https://github.com/omarjazaa?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=omarjazaa&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@omarjazaa's trophy stats"/></a>
-</p>
-
-
-
-
-
-<p align="center">
-<a href="https://gist.github.com/omarjazaa"><img src="https://profile-counter.glitch.me/{omarjazaa}/count.svg" alt="omarjazaa :: Visitor's Count" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/omarjazaa/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 
 ## Languages and Tools  
@@ -465,7 +446,7 @@ Hi there 👋
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omarjazaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omarjazaa&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=omarjazaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjazaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
